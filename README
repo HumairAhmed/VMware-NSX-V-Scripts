@@ -1,0 +1,30 @@
+Program:         VMware-NSX-V-Scripts 
+Version:         1.0 
+Date:            12/31/2015
+Website:         http://www.HumairAhmed.com
+Developer(s):    Humair Ahmed 
+
+
+License:
+
+Open source software being distributed under GPLv2 license. For more 
+information see here:
+
+http://www.gnu.org/copyleft/gpl.html. 
+ 
+Can edit and redistribute code as long as above reference of authorship 
+is kept within the code.
+
+
+Program Description:
+
+This project contains a collection of VMware NSX-V python scripts utilizing NSX-V REST API. 
+
+Current scripts include following functionality: 
+- resetting NSX-V DFW to defualt state
+- deleting NSX-V DFW Rule Section
+- deleting NSX-V DFW Rule 
+
+Dependencies:
+
+Python 2.7.6 was used to write these scripts.
